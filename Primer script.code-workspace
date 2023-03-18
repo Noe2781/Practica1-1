@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Primer script",
+			"path": "../Primer script"
+		},
+		{
+			"name": "Practica1-1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practica1-1"
+	}
+}
